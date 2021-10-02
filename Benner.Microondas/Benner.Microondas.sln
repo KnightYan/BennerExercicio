@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benner.Microondas", "Benner.Microondas\Benner.Microondas.csproj", "{78771383-EDD5-48A0-A821-43C69A3E9C77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benner.Microondas.Dao", "Benner.Microondas.Dao\Benner.Microondas.Dao.csproj", "{EDF832AF-1AD0-424C-A260-8952CAA44104}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benner.Microondas.Model", "Benner.Microondas.Model\Benner.Microondas.Model.csproj", "{08A56977-8C8C-4890-987D-5DE1F9A169F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benner.Microondas.Controle", "Benner.Microondas.Controle\Benner.Microondas.Controle.csproj", "{FB7358BA-F543-4303-95E1-A78AEC8FFDC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benner.Microondas.Comuns", "Benner.Microondas.Comuns\Benner.Microondas.Comuns.csproj", "{0B10057A-3EF3-4726-89B9-5D9F45EE0F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benner.Microondas.Mapeamento", "Benner.Microondas.Mapeamento\Benner.Microondas.Mapeamento.csproj", "{D37EC5A0-12C3-4D73-B622-1C3488446C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78771383-EDD5-48A0-A821-43C69A3E9C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78771383-EDD5-48A0-A821-43C69A3E9C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78771383-EDD5-48A0-A821-43C69A3E9C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78771383-EDD5-48A0-A821-43C69A3E9C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF832AF-1AD0-424C-A260-8952CAA44104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF832AF-1AD0-424C-A260-8952CAA44104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF832AF-1AD0-424C-A260-8952CAA44104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF832AF-1AD0-424C-A260-8952CAA44104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A56977-8C8C-4890-987D-5DE1F9A169F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A56977-8C8C-4890-987D-5DE1F9A169F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A56977-8C8C-4890-987D-5DE1F9A169F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A56977-8C8C-4890-987D-5DE1F9A169F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7358BA-F543-4303-95E1-A78AEC8FFDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7358BA-F543-4303-95E1-A78AEC8FFDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7358BA-F543-4303-95E1-A78AEC8FFDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7358BA-F543-4303-95E1-A78AEC8FFDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B10057A-3EF3-4726-89B9-5D9F45EE0F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B10057A-3EF3-4726-89B9-5D9F45EE0F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B10057A-3EF3-4726-89B9-5D9F45EE0F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B10057A-3EF3-4726-89B9-5D9F45EE0F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37EC5A0-12C3-4D73-B622-1C3488446C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37EC5A0-12C3-4D73-B622-1C3488446C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37EC5A0-12C3-4D73-B622-1C3488446C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37EC5A0-12C3-4D73-B622-1C3488446C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {722C3EFE-9261-4241-9689-03CE228A604A}
+	EndGlobalSection
+EndGlobal

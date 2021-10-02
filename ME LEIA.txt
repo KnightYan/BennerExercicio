@@ -1,0 +1,5 @@
+O projeto foi desenvolvido como um "Extra" em um dia então me limitei em algumas atividades da proposta
+para poder enviar este extra.
+
+Foi desenvolvido com o Visual Studio
+Banco de dados usando o SqlLite, gerado automaticamente quando a aplicação iniciar

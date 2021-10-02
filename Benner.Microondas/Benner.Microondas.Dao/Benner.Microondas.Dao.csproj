@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Benner.Microondas.Comuns\Benner.Microondas.Comuns.csproj" />
+    <ProjectReference Include="..\Benner.Microondas.Model\Benner.Microondas.Model.csproj" />
+  </ItemGroup>
+
+</Project>

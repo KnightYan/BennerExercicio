@@ -1,0 +1,14 @@
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\bin\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.deps.json
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\bin\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.dll
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\bin\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.pdb
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.csproj.AssemblyReference.cache
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Microondas.g.cs
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces_MarkupCompile.cache
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces_MarkupCompile.lref
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Microondas.baml
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.g.resources
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.AssemblyInfoInputs.cache
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.AssemblyInfo.cs
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.csproj.CoreCompileInputs.cache
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.dll
+Y:\Projetos\Benner\Benner.Microondas\Benner.Microondas.Interfaces\obj\Debug\netcoreapp3.1\Benner.Microondas.Interfaces.pdb
